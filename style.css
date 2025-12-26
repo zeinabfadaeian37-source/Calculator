@@ -1,0 +1,118 @@
+body {
+    background: radial-gradient(circle at top center, #114076, #000000 70%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'Digital7';
+    src: url('https://cdn.jsdelivr.net/gh/blazrobar/digital-7-font/digital-7.ttf') format('truetype');
+}
+
+.result,
+.num {
+    font-family: 'Digital7', monospace;
+}
+
+
+.calculator {
+    width: 320px;
+    background-color: transparent;
+    padding: 20px;
+}
+
+.display {
+    text-align: right;
+    color: white;
+    margin-bottom: 30px;
+    padding-right: 10px;
+}
+
+.expression .plus {
+    color: #4a90e2;
+}
+
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+}
+
+.btn {
+    border: none;
+    border-radius: 12px;
+    height: 60px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.num {
+    background-color: #2c2c2e;
+    color: #ffffff;
+}
+
+.blue {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+.gray {
+    background-color: #505050;
+    color: #ccc;
+}
+
+.func {
+    background: transparent;
+    color: #9dc9dd;
+    font-size: 16px;
+}
+
+.plus-btn {
+    grid-column: 4;
+    grid-row: 4 / 6;
+    height: auto;
+}
+
+.equal {
+    background-color: #0056b3;
+    color: white;
+    grid-column: 4;
+    grid-row: 6;
+    height: 60px;
+}
+
+.zero {
+    grid-column: 1 / 3;
+}
+
+.zero {
+    grid-column: 1 / 3;
+}
+
+.btn:active {
+    opacity: 0.7;
+}
+
+.result {
+    font-family: 'Digital7', monospace;
+    font-size: 70px;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.expression {
+    font-family: 'Digital7', monospace;
+    font-size: 28px;
+    color: #aaa;
+}
+
+.btn.num {
+    font-family: 'Digital7', monospace;
+    font-size: 24px;
+    font-weight: bold;
+}
