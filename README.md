@@ -1,17 +1,25 @@
-# 📱Calculator
+📱 Calculator
 
-این یک پروژه ماشین‌حساب ساده و زیباست که با استفاده از تکنولوژی‌های وب طراحی شده است.
+A simple and visually appealing calculator built using modern web technologies.
 
-## ✨ ویژگی‌ها
-- **طراحی زیبا:** ظاهر تیره (Dark Mode) با الهام از اپلیکیشن‌های موبایل.
-- **محاسبات دقیق:** انجام عملیات ریاضی مثل جمع، تفریق، ضرب و تقسیم.
-- **نمایش حرفه‌ای:** اعداد بزرگ را با کاما جدا می‌کند (مثلاً 12,454) تا خواندنش راحت باشد.
-- **کاملاً ریسپانسیو:** در گوشی موبایل و کامپیوتر به خوبی نمایش داده می‌شود.
+✨ Features
 
-## 🛠 ابزارهای استفاده شده
-- **HTML5** (ساختار)
-- **CSS3** (ظاهر و رنگ‌ها)
-- **JavaScript** (منطق ریاضی و دکمه‌ها)
+Beautiful UI: Dark-mode inspired design similar to mobile calculator apps.
 
-## 🚀 نحوه اجرا
-مشاهده آنلاین: [https://zeinabfadaeian37-source.github.io/Calculator-/]
+Accurate Calculations: Supports basic math operations including addition, subtraction, multiplication, and division.
+
+Professional Number Formatting: Large numbers are formatted with commas (e.g., 12,454) for improved readability.
+
+Fully Responsive: Works smoothly on both mobile devices and desktop screens.
+
+🛠 Technologies Used
+
+HTML5 – Page structure
+
+CSS3 – Styling, colors, and layout
+
+JavaScript – Calculation logic and button interactions
+
+🚀 Live Demo
+
+https://zeinabfadaeian37-source.github.io/Calculator
