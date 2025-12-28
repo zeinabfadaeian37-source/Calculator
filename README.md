@@ -1,25 +1,30 @@
-📱 Calculator
+# 📱 Calculator
 
-A simple and visually appealing calculator built using modern web technologies.
+A simple, visually appealing calculator built using **HTML5**, **CSS3**, and **JavaScript**.
 
-✨ Features
+---
 
-Beautiful UI: Dark-mode inspired design similar to mobile calculator apps.
+## ✨ Features
+- Dark-mode inspired design similar to mobile calculator apps
+- Accurate calculations: addition, subtraction, multiplication, division
+- Professional number formatting with commas for readability
+- Fully responsive on mobile and desktop
 
-Accurate Calculations: Supports basic math operations including addition, subtraction, multiplication, and division.
+---
 
-Professional Number Formatting: Large numbers are formatted with commas (e.g., 12,454) for improved readability.
+## 🛠 Technologies Used
+- **HTML5** – Page structure
+- **CSS3** – Styling, colors, layout
+- **JavaScript** – Calculation logic and button interactions
 
-Fully Responsive: Works smoothly on both mobile devices and desktop screens.
+---
 
-🛠 Technologies Used
+## 💻 How to Run Locally
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Perform calculations
 
-HTML5 – Page structure
+---
 
-CSS3 – Styling, colors, and layout
-
-JavaScript – Calculation logic and button interactions
-
-🚀 Live Demo
-
-https://zeinabfadaeian37-source.github.io/Calculator
+## 🚀 Live Demo
+[View Online][https://zeinabfadaeian37-source.github.io/Calculator-/]
